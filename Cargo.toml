@@ -9,6 +9,7 @@ crate-type = ["staticlib", "cdylib"]
 
 [dependencies]
 ocaml = {version = "^1.0.0-beta"}
+arwen_synth = {version = "0.1.0", path = "../../Github/Arwen_Synth"}
 
 [build-dependencies]
 ocaml-build = {version = "^1.0.0-beta"}
