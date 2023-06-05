@@ -1,0 +1,5 @@
+(executables
+ (libraries my_project)
+ (names stub)
+ (public_names stub)
+ (modules stub))

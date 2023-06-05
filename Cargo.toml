@@ -1,5 +1,5 @@
 [package]
-name = "ocaml-rust-starter"
+name = "my_project"
 version = "0.1.0"
 authors = ["Zach Shipko <zachshipko@gmail.com>"]
 edition = "2021"

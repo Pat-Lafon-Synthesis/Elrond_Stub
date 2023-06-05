@@ -1,10 +1,10 @@
 (lang dune 2.0)
-(name ocaml-rust-starter)
+(name my_project)
 
 (generate_opam_files true)
 
 (package
- (name ocaml-rust-starter)
+ (name my_project)
  (synopsis "FIXME:")
  (description "FIXME:")
  (depends
